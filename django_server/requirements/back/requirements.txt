@@ -1,0 +1,11 @@
+Django==5.1.4
+psycopg2-binary==2.9.9
+Pillow<11
+channels==4.0.0
+requests==2.31.0
+django-cors-headers==4.1.0
+django-extensions==3.2.3
+configparser
+channels-postgres
+drf-yasg
+daphne
